@@ -3,7 +3,7 @@ This is a guide to enable always day in Subnautica by patching a game file.
 
 **NOTE:** You do NOT need to be tech savvy to do this, all you need is the ability to follow instructions.
 
-I will probably post a video guide soon.
+[![Video Guide](https://img.youtube.com/vi/leixcZaJcsI/maxresdefault.jpg)](https://youtu.be/leixcZaJcsI)
 
 ## Prerequisites
 [dnSpy](https://github.com/dnSpy/dnSpy/releases) - dnSpy is a widely known Open Source program that is used for viewing/editing .NET assemblies, this may look complicated but it's pretty easy to get a grasp of.
